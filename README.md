@@ -1,1 +1,1 @@
-# 03-09-2022
+Freshly intalled ubuntu on system and installed all the dependancies required for dronekit and pymavlink and other dependencies. Installed dronekit-sitl and pymavproxy on ubnutu and configured it accord to the needs. Installed mission planner for the telemetry and signal monitering. Conncted them with UDP connection and successfully performed telemetory data transfer.
